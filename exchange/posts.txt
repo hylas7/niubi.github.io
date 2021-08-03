@@ -1,0 +1,4 @@
+<div class=post><div class=time>08-02 10:21</div><div class=msg>Transfer amount:2 OKT
+Transfer address:0x2eF24AF8E21D9F04652735Deea9a901ACE46c050
+OktMoon receiving address:0x0000000000（Fill in the wallet address where you accept oktMoon tokens）
+Please fill in this form strictly！！！</div></div>
